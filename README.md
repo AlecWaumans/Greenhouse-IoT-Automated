@@ -13,12 +13,12 @@
 
 ## Current Setup
 <p align="center">
-<img src="SerreConnectée/docs/images/Globale.jpg" alt="Connection1.jpg" width="500"/>
-<img src="SerreConnectée/docs/images/Connection2.jpg" alt="Connection2.jpg" width="150"/>
-<img src="SerreConnectée/docs/images/Connection3.jpg" alt="Connection3.jpg" width="150"/>
-<img src="SerreConnectée/docs/images/Connection4.jpg" alt="Connection4.jpg" width="150"/>
-<img src="SerreConnectée/docs/images/Connection5.jpg" alt="Connection5.jpg" width="200"/>
-<img src="SerreConnectée/docs/images/Connection6.jpg" alt="Connection6.jpg" width="200"/>
+<img src="Greenhouse/docs/images/Globale.jpg" alt="Connection1.jpg" width="500"/>
+<img src="Greenhouse/docs/images/Connection2.jpg" alt="Connection2.jpg" width="150"/>
+<img src="Greenhouse/docs/images/Connection3.jpg" alt="Connection3.jpg" width="150"/>
+<img src="Greenhouse/docs/images/Connection4.jpg" alt="Connection4.jpg" width="150"/>
+<img src="Greenhouse/docs/images/Connection5.jpg" alt="Connection5.jpg" width="200"/>
+<img src="Greenhouse/docs/images/Connection6.jpg" alt="Connection6.jpg" width="200"/>
 </p>
 
 
